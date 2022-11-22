@@ -1,17 +1,12 @@
-Hi 👋, I'm Sourav Misra 
 
-💬 Ask me about anything, I am happy to help.
-_______________________________________________________________________________________________________________________
+  <div style="display:flex ;">
+    <h3 >Hi 👋, I'm Sourav Misra</h3> <img src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" width="100"/>
+</div>
+  ____________________________________________________________________________________
 
-🚀 Languages and Tools:
-HTML || CSS || jS
+<h3>🙋‍♂️ Who Am I?</h3>
+  _____________________________________________________________________________________
+<h4 style="font-weight:15000px ;">I'm a passionate Full Stack Web Developer from India.</h4>
+<h3 >🚀 Languages and Tools:</h3>
+<img style="background-color:black" src="https://p.kindpng.com/picc/s/78-787343_html5-css-javascript-html-css-js-icon-hd.png" width="600" alt="">
 
-_____________________________________________________________________________________________________________________
-Contact Me ☎️:-<br>
-souravmisra4125@gmail.com
-
-
-<!---
-sourav4125/sourav4125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
