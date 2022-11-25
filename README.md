@@ -1,6 +1,7 @@
 
   <div style="display:flex ;">
-    <h3 >Hi 👋, I'm Sourav Misra</h3> <img src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" width="100"/>
+    <h3 margin-right:20px >Hi 👋, I'm Sourav Misra   <img src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" width="100"/></h3> 
+
 </div>
   ____________________________________________________________________________________
 
