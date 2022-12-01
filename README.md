@@ -1,13 +1,16 @@
+<h1 align="center">Hi 👋, I'm Sourav Misra</h1>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
-  <div style="display:flex ;">
-    <h3 margin-right:20px >Hi 👋, I'm Sourav Misra   <img src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" width="100"/></h3> 
+- 🌱 I’m currently learning **MERN Stack**
 
-</div>
-  ____________________________________________________________________________________
+- 💬 Ask me about **anything, I am happy to help;**
 
-<h3>🙋‍♂️ Who Am I?</h3>
-  _____________________________________________________________________________________
-<h4 style="font-weight:15000px ;">I'm a passionate Full Stack Web Developer from India.</h4>
-<h3 >🚀 Languages and Tools:</h3>
-<img style="background-color:black" src="https://p.kindpng.com/picc/s/78-787343_html5-css-javascript-html-css-js-icon-hd.png" width="600" alt="">
+- 📫 How to reach me **souravmisra4125@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_100rav_misra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_100rav_misra" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
