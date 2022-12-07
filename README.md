@@ -19,6 +19,6 @@
 <a href="https://instagram.com/_100rav_misra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_100rav_misra" height="30" width="40" /></a>
 </p>
 
-
+<img src="https://www.codewars.com/users/Sourav%20Misra/badges/small">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav4125&" alt="sourav4125" /></p>
