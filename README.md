@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering.This skill also help me to solve Data structure and algorithms problems.</p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NodeJS Stack**
 
 - 💬 Ask me about **anything, I am happy to help;**
 
