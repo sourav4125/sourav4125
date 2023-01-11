@@ -22,7 +22,8 @@
 <a href="https://instagram.com/_100rav_misra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_100rav_misra" height="30" width="40" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav4125&show_icons=true&locale=en&layout=compact" alt="sourav4125" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav4125&show_icons=true&locale=en&layout=compact" alt="sourav4125" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav4125&show_icons=true&locale=en" alt="sourav4125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav4125&" alt="sourav4125" /></p>
